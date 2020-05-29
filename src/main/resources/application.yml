@@ -1,0 +1,5 @@
+name: rover-robot
+
+server:
+  servlet:
+    context-path: /rest
